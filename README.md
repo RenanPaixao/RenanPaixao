@@ -1,6 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanPaixao&hide=issues&count_private=true&show_icons=true&theme=midnight-purple&)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanPaixao&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanPaixao&card_width=390&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
